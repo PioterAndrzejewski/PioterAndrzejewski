@@ -27,7 +27,3 @@ Photoshop, Figma<br>
         <img src="https://raw.githubusercontent.com/Iwi4a/iwi4a/master/assets/linkedin.svg" alt="Connect on Linkedin">
     </a>
 </div>
-<br><br><br>
-<div style="display:grid;align-items:center;justify-content:center" align="center">
-  <img style="height:100%;width:49%;max-width: 10%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PioterAndrzejewski&layout=compact&theme=gotham&langs_count=8"/>
-</div>
