@@ -20,8 +20,9 @@ As this is a part-time job, I am open to new projects!
 
 🥑 Eat 💻 Code 💪🏽 Train ♻️ Repeat
 
-
-I'm always doing some side projects!
+I am currently working on:
+ArchiDetails
+More info coming soon!
 
   ## Stack: 
 React, Next.js, Typescript, Javascript<br>
