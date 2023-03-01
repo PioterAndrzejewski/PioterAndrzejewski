@@ -21,7 +21,7 @@ As this is a part-time job, I am open to new projects!
 🥑 Eat 💻 Code 💪🏽 Train ♻️ Repeat
 
 I am currently working on:
-ArchiDetails
+ArchiDetails <br>
 More info coming soon!
 
   ## Stack: 
