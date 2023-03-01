@@ -1,7 +1,7 @@
 ![image](https://user-images.githubusercontent.com/109315248/222006798-47d8302c-dfb0-42ce-bf38-2c6761ad019c.png)
 
 
-## Web Developer (JS, TS, React, Next)
+## Front-End Developer (JS, TS, React, Next)
 
 🔭 Currently working at DeveloArt (Software House from Poland). I work with great people and we are using great technologies! 
 As this is a part-time job, I am open to new projects!
