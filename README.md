@@ -32,7 +32,7 @@ I know, you're tired of seeing the same repetitive projects and the amount of CV
 
 ## Front-End Developer (JS, TS, React, Next)
 
-🔭 Currently working at DeveloArt (Software House from Poland) as part-time trainee. I work with great people and we are using great technologies! 
+Currently working at DeveloArt (Software House from Poland) as part-time trainee. I work with great people and we are using great technologies! 
 As this is a part-time job, I am open to new projects!
 
 
