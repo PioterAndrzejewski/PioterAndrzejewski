@@ -20,9 +20,12 @@ As this is a part-time job, I am open to new projects!
 
 🥑 Eat 💻 Code 💪🏽 Train ♻️ Repeat
 
-I am currently working on:
-ArchiDetails <br>
-More info coming soon!
+I am currently working on: <br>
+➡️➡️➡️ [ArchiDetails](https://github.com/PioterAndrzejewski/archi-details) ⬅️⬅️⬅️
+<br>
+![image](https://user-images.githubusercontent.com/109315248/222597505-57299020-2e0f-4154-b1f5-b76eee3f61f1.png)
+
+
 
   ## Stack: 
 React, Next.js, Typescript, Javascript<br>
