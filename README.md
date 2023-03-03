@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/109315248/222006798-47d8302c-dfb0-42ce-bf38-2c6761ad019c.png)
+![image](https://user-images.githubusercontent.com/109315248/222615792-aea3337b-0c7e-4e84-9dc9-69be067b8472.png)
 
   ## Long story short:
 You're here, so it looks like you're looking for a junior web / front-end developer. 
