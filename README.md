@@ -4,7 +4,7 @@
 You're here, so it looks like you're looking for a junior web / front-end developer. 
 
 I know, you're tired of seeing the same repetitive projects and the amount of CVs doesn't make anything easier. <br>
-**That's why I'm leaving you with links to:**
+That's why I'm leaving you with links to:
 - 100% **original projects**
 - **no copy-paste**
 - **no repetitive** looks
