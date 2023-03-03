@@ -54,5 +54,11 @@ Photoshop, Figma<br>
     <a href="mailto:p.andrzejewski@outlook.com">
         <img src="https://user-images.githubusercontent.com/109315248/222614744-0efa4174-693f-481c-baf0-d4f96e01730e.png" alt="Connect with email">
     </a>
+    <a href="https://www.youtube.com/rzutoka">
+        <img src="https://user-images.githubusercontent.com/109315248/222616553-7cd0cae5-003b-4513-ab80-03ccd36bdcb3.png" alt="Connect with youtube">
+    </a>
+    <a href="https://www.facebook.com/PiotrAndrzejewskii">
+        <img src="https://user-images.githubusercontent.com/109315248/222616402-4e7b549e-1ec5-4fca-bf8f-6b89739a5b81.png" alt="Connect with facebook">
+    </a>
 </div>
 
