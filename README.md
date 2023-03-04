@@ -8,7 +8,6 @@ That's why I'm leaving you with links to:
 - 100% **original projects**
 - **no copy-paste**
 - **no repetitive** looks
-- **no non-functional**, cluttered pages with jumping animations copied from codepen
 
 <table>
   <tr>
