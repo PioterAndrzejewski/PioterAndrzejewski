@@ -2,7 +2,7 @@
 
   ## Long story short:
 If you're on this page, chances are you're searching for a junior web/front-end developer. As a developer myself, I understand that it can be exhausting to sift through a sea of CVs and repetitive projects. <br>
-To make things easier for you, I've compiled a list of my original projects that I have created from scratch. You won't find any major copy-pasting or repetitive designs in my work.
+To make things easier for you, I've compiled a list of my original projects that I have created from scratch. You won't find any major copy-pasting or repetitive designs in my these projects:
 
 <table>
   <tr>
