@@ -1,13 +1,8 @@
 ![image](https://user-images.githubusercontent.com/109315248/222615792-aea3337b-0c7e-4e84-9dc9-69be067b8472.png)
 
   ## Long story short:
-You're here, so it looks like you're looking for a junior web / front-end developer. 
-
-I know, you're tired of seeing the same repetitive projects and the amount of CVs doesn't make anything easier. <br>
-That's why I'm leaving you with links to:
-- 100% **original projects**
-- **no copy-paste**
-- **no repetitive** looks
+If you're on this page, chances are you're searching for a junior web/front-end developer. As a developer myself, I understand that it can be exhausting to sift through a sea of CVs and repetitive projects. <br>
+To make things easier for you, I've compiled a list of my original projects that I have created from scratch. You won't find any major copy-pasting or repetitive designs in my work.
 
 <table>
   <tr>
@@ -31,10 +26,9 @@ That's why I'm leaving you with links to:
 
 ## Front-End Developer (JS, TS, React, Next)
 
-Currently working at DeveloArt (Software House from Poland) as part-time trainee. I work with great people and we are using great technologies! 
-As this is a part-time job, I am open to new projects!
+I'm currently working as a part-time trainee at DeveloArt, a top-notch software house based in Poland. Working alongside talented professionals and utilizing cutting-edge technologies has been an amazing experience so far.
 
-
+Since this is a part-time position, I'm eager to explore new opportunities and take on exciting projects. If you're interested in working with me, feel free to reach out. I'm always ready for new challenges and experiences!
 
   ## Stack: 
 React, Next.js, Typescript, Javascript<br>
