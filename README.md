@@ -27,9 +27,7 @@ To make things easier for you, I've compiled a list of my original projects that
 
 ## Front-End Developer (JS, TS, React, Next)
 
-I'm currently working as a part-time trainee at DeveloArt, a top-notch software house based in Poland. Working alongside talented professionals and utilizing cutting-edge technologies has been an amazing experience so far.
-
-Since this is a part-time position, I'm eager to explore new opportunities and take on exciting projects. If you're interested in working with me, feel free to reach out. I'm always ready for new challenges and experiences!
+I'm currently working as a junior front-end developer at Parleto, a top-notch software house based in Poland. Working alongside talented professionals and utilizing cutting-edge technologies has been an amazing experience so far.
 
   ## Stack: 
 React, Next.js, Typescript, Javascript<br>
