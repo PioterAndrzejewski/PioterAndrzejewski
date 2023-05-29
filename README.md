@@ -25,12 +25,12 @@ To make things easier for you, I've compiled a list of my original projects that
   </tr>
 </table>
 
-## Front-End Developer (JS, TS, React, Next)
+## Front-End Developer (JS, TS, React, Vue)
 
 I'm currently working as a junior front-end developer at Parleto, a top-notch software house based in Poland. Working alongside talented professionals and utilizing cutting-edge technologies has been an amazing experience so far.
 
   ## Stack: 
-React, Next.js, Typescript, Javascript<br>
+React, Next.js, Typescript, Vue, Javascript<br>
 Redux, context API<br>
 Sass modules, BEM, Chakra, MUI, Styled-components<br>
 Node, Express, MongoDB<br>
