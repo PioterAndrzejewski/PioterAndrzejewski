@@ -5,11 +5,12 @@ If you're on this page, chances are you're searching for a junior web/front-end 
 I understand that it can be exhausting to sift through a sea of CVs and repetitive projects. <br>
 To make things easier for you, I've compiled a list of my original projects that I have created from scratch:
 
+
 <table>
     <tr>
      <td valign="top">
-      <a href="https://github.com/PioterAndrzejewski/archi-details" target=”_blank”>
-        <img src="https://user-images.githubusercontent.com/109315248/222613914-2907da8b-d63b-410c-9b50-5946e3e2964c.png" alt="ArchiDetails logo">
+      <a href="[https://github.com/PioterAndrzejewski/archi-details" target=”_blank](https://github.com/PioterAndrzejewski/js-editor)”>
+        <img src="https://github.com/PioterAndrzejewski/PioterAndrzejewski/assets/109315248/15ee56b1-4d1b-4bc3-a03d-62a6c8577125" alt="JS-EDITOR">
       </a>
     </td>
     <td valign="top">
