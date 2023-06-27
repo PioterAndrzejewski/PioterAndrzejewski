@@ -7,9 +7,9 @@ To make things easier for you, I've compiled a list of my projects that I am pro
 
 <table>
     <tr>
-     <td valign="top">
-        <a href="https://github.com/PioterAndrzejewski/archi-details” target="_blank">
-          <img src="https://github.com/PioterAndrzejewski/PioterAndrzejewski/assets/109315248/15ee56b1-4d1b-4bc3-a03d-62a6c8577125" alt="JS-EDITOR" />
+      <td valign="top">
+        <a href="https://github.com/PioterAndrzejewski/js-editor" target=”_blank”>
+          <img src="https://user-images.githubusercontent.com/109315248/249135145-15ee56b1-4d1b-4bc3-a03d-62a6c8577125.png" alt="js-editor">
         </a>
       </td>
       <td valign="top">
