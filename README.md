@@ -3,8 +3,7 @@
   ## Long story short:
 If you're on this page, chances are you're searching for a junior web/front-end developer.<br>
 I understand that it can be exhausting to sift through a sea of CVs and repetitive projects. <br>
-To make things easier for you, I've compiled a list of my original projects that I have created from scratch:
-
+To make things easier for you, I've compiled a list of my projects that I am proud of:
 
 <table>
     <tr>
@@ -34,7 +33,7 @@ I'm currently working as a junior front-end developer at Parleto, a top-notch so
 React, Next.js, Typescript, Vue, Javascript<br>
 Redux, context API<br>
 Sass modules, BEM, Chakra, MUI, Styled-components<br>
-Node, Express, MongoDB<br>
+Node, Express, MongoDB, SQL<br>
 Photoshop, Figma<br>
 
 
