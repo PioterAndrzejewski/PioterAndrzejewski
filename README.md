@@ -8,20 +8,20 @@ To make things easier for you, I've compiled a list of my projects that I am pro
 <table>
     <tr>
      <td valign="top">
-        <a href="[https://github.com/PioterAndrzejewski/archi-details" target=”_blank](https://github.com/PioterAndrzejewski/js-editor)”>
+        <a href="https://github.com/PioterAndrzejewski/archi-details” target="_blank">
           <img src="https://github.com/PioterAndrzejewski/PioterAndrzejewski/assets/109315248/15ee56b1-4d1b-4bc3-a03d-62a6c8577125" alt="JS-EDITOR" />
         </a>
       </td>
-    <td valign="top">
-      <a href="https://github.com/PioterAndrzejewski/project_configurator_frontend" target=”_blank”>
-        <img src="https://user-images.githubusercontent.com/109315248/222612060-c545e913-e90c-4543-9118-7ec45e43f0b8.png" alt="Project configurator logo">
-      </a>
-    </td>
-    <td valign="top">
-      <a href="https://github.com/PioterAndrzejewski/team_manager_frontend" target=”_blank”>
-        <img src="https://user-images.githubusercontent.com/109315248/222612423-666f68f7-e79f-42ed-ba4b-e3b0f22d053d.png" alt="Team Manager logo">
-      </a>
-    </td>
+      <td valign="top">
+        <a href="https://github.com/PioterAndrzejewski/project_configurator_frontend" target=”_blank”>
+          <img src="https://user-images.githubusercontent.com/109315248/222612060-c545e913-e90c-4543-9118-7ec45e43f0b8.png" alt="Project configurator logo">
+        </a>
+      </td>
+      <td valign="top">
+        <a href="https://github.com/PioterAndrzejewski/team_manager_frontend" target=”_blank”>
+          <img src="https://user-images.githubusercontent.com/109315248/222612423-666f68f7-e79f-42ed-ba4b-e3b0f22d053d.png" alt="Team Manager logo">
+        </a>
+      </td>
   </tr>
 </table>
 
