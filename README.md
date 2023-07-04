@@ -10,22 +10,30 @@ To make things easier for you, I've compiled a list of my projects that I am pro
     <tr>
       <td valign="top">
         <a href="https://github.com/PioterAndrzejewski/js-editor" target=”_blank”>
-          <img src="https://user-images.githubusercontent.com/109315248/249135145-15ee56b1-4d1b-4bc3-a03d-62a6c8577125.png" alt="js-editor">
+          <picture>
+            <img src="https://user-images.githubusercontent.com/109315248/249135145-15ee56b1-4d1b-4bc3-a03d-62a6c8577125.png" alt="js-editor">
+          </picture>
         </a>
       </td>
       <td valign="top">
         <a href="https://github.com/PioterAndrzejewski/portfolio_game" target=”_blank”>
-          <img src="https://github.com/PioterAndrzejewski/PioterAndrzejewski/assets/109315248/4085a862-cf98-43b8-bad3-408b763b235e" alt="js-editor">
+            <picture>
+              <img src="https://github.com/PioterAndrzejewski/PioterAndrzejewski/assets/109315248/4085a862-cf98-43b8-bad3-408b763b235e" alt="portfolio game logo">
+            </picture>
         </a>
       </td>
       <td valign="top">
         <a href="https://github.com/PioterAndrzejewski/project_configurator_frontend" target=”_blank”>
-          <img src="https://user-images.githubusercontent.com/109315248/222612060-c545e913-e90c-4543-9118-7ec45e43f0b8.png" alt="Project configurator logo">
+          <picture>
+            <img src="https://user-images.githubusercontent.com/109315248/222612060-c545e913-e90c-4543-9118-7ec45e43f0b8.png" alt="Project configurator logo">
+          </picture>
         </a>
       </td>
       <td valign="top">
         <a href="https://github.com/PioterAndrzejewski/team_manager_frontend" target=”_blank”>
-          <img src="https://user-images.githubusercontent.com/109315248/222612423-666f68f7-e79f-42ed-ba4b-e3b0f22d053d.png" alt="Team Manager logo">
+          <picture>
+            <img src="https://user-images.githubusercontent.com/109315248/222612423-666f68f7-e79f-42ed-ba4b-e3b0f22d053d.png" alt="Team Manager logo">
+          </picture>
         </a>
       </td>
   </tr>
