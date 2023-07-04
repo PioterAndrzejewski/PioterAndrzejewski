@@ -5,11 +5,17 @@ If you're on this page, chances are you're searching for a junior web/front-end 
 I understand that it can be exhausting to sift through a sea of CVs and repetitive projects. <br>
 To make things easier for you, I've compiled a list of my projects that I am proud of:
 
+
 <table>
     <tr>
       <td valign="top">
         <a href="https://github.com/PioterAndrzejewski/js-editor" target=”_blank”>
           <img src="https://user-images.githubusercontent.com/109315248/249135145-15ee56b1-4d1b-4bc3-a03d-62a6c8577125.png" alt="js-editor">
+        </a>
+      </td>
+      <td valign="top">
+        <a href="https://github.com/PioterAndrzejewski/portfolio_game" target=”_blank”>
+          <img src="https://github.com/PioterAndrzejewski/PioterAndrzejewski/assets/109315248/4085a862-cf98-43b8-bad3-408b763b235e" alt="js-editor">
         </a>
       </td>
       <td valign="top">
