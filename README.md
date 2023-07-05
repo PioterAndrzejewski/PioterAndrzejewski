@@ -36,6 +36,13 @@ To make things easier for you, I've compiled a list of my projects that I am pro
           </picture>
         </a>
       </td>
+      <td valign="top">
+        <a href="https://github.com/PioterAndrzejewski/Architecture_Company" target=”_blank”>
+          <picture>
+            <img src="https://github.com/PioterAndrzejewski/PioterAndrzejewski/assets/109315248/2163e8eb-04aa-45f8-acc5-c451b57f5fc5" alt="architecture logo">
+          </picture>
+        </a>
+      </td>
   </tr>
 </table>
 
