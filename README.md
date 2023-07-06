@@ -1,10 +1,8 @@
-![image](https://user-images.githubusercontent.com/109315248/222615792-aea3337b-0c7e-4e84-9dc9-69be067b8472.png)
+![image](https://github.com/PioterAndrzejewski/PioterAndrzejewski/assets/109315248/6c15b613-d278-4789-bac9-8550e0e29456)
+
 
   ## Long story short:
-If you're on this page, chances are you're searching for a junior web/front-end developer.<br>
-I understand that it can be exhausting to sift through a sea of CVs and repetitive projects. <br>
 To make things easier for you, I've compiled a list of my projects that I am proud of:
-
 
 <table>
     <tr>
@@ -46,17 +44,9 @@ To make things easier for you, I've compiled a list of my projects that I am pro
   </tr>
 </table>
 
-## Front-End Developer (JS, TS, React, Vue)
+## Web Developer (JS, TS, React, Vue, Node)
 
 I'm currently working as a junior front-end developer at Parleto, a top-notch software house based in Poland. Working alongside talented professionals and utilizing cutting-edge technologies has been an amazing experience so far.
-
-  ## Stack: 
-React, Next.js, Typescript, Vue, Javascript<br>
-Redux, context API<br>
-Sass modules, BEM, Chakra, MUI, Styled-components<br>
-Node, Express, MongoDB, SQL<br>
-Photoshop, Figma<br>
-
 
   ##  Feel free to reach out 💬
 
