@@ -57,8 +57,5 @@ I'm currently working as a junior front-end developer at Parleto, a top-notch so
     <a href="mailto:p.andrzejewski@outlook.com" target=”_blank”>
         <img src="https://user-images.githubusercontent.com/109315248/222614744-0efa4174-693f-481c-baf0-d4f96e01730e.png" alt="Connect with email">
     </a>
-    <a href="https://www.youtube.com/rzutoka" target=”_blank”>
-        <img src="https://user-images.githubusercontent.com/109315248/222616553-7cd0cae5-003b-4513-ab80-03ccd36bdcb3.png" alt="Connect with youtube">
-    </a>
 </div>
 
