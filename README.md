@@ -1,11 +1,12 @@
 ![image](https://github.com/PioterAndrzejewski/PioterAndrzejewski/assets/109315248/6c15b613-d278-4789-bac9-8550e0e29456)
 
 
+
   ## Long story short:
 To make things easier for you, I've compiled a list of my projects that I am proud of:
 
 <table>
-    <tr>
+    <tr width>
       <td valign="top">
         <a href="https://github.com/PioterAndrzejewski/js-editor" target=”_blank”>
           <picture>
@@ -20,6 +21,16 @@ To make things easier for you, I've compiled a list of my projects that I am pro
             </picture>
         </a>
       </td>
+      <td valign="top">
+        <a href="https://github.com/PioterAndrzejewski/code-playground" target=”_blank”>
+            <picture>
+              <img src="https://github.com/PioterAndrzejewski/PioterAndrzejewski/assets/109315248/77767d76-cad6-4ba2-a878-1b3e35814674" alt="web playground logo">
+            </picture>
+        </a>
+      </td>
+    </tr>
+    <tr></tr>
+    <tr>
       <td valign="top">
         <a href="https://github.com/PioterAndrzejewski/project_configurator_frontend" target=”_blank”>
           <picture>
@@ -59,4 +70,3 @@ I'm currently working as a junior front-end developer at Parleto, a top-notch so
         <img src="https://user-images.githubusercontent.com/109315248/222614744-0efa4174-693f-481c-baf0-d4f96e01730e.png" alt="Connect with email">
     </a>
 </div>
-
