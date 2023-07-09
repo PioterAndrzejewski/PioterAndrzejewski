@@ -9,40 +9,41 @@ To make things easier for you, I've compiled a list of my projects that I am pro
       <td valign="top">
         <a href="https://github.com/PioterAndrzejewski/js-editor" target=”_blank”>
           <picture>
-            <img src="https://user-images.githubusercontent.com/109315248/249135145-15ee56b1-4d1b-4bc3-a03d-62a6c8577125.png" alt="js-editor">
+            <img src="https://github.com/PioterAndrzejewski/PioterAndrzejewski/assets/109315248/46ad9651-b700-4d18-b9ed-1562d177243b" alt="js-editor">
           </picture>
         </a>
       </td>
       <td valign="top">
         <a href="https://github.com/PioterAndrzejewski/portfolio_game" target=”_blank”>
             <picture>
-              <img src="https://github.com/PioterAndrzejewski/PioterAndrzejewski/assets/109315248/4085a862-cf98-43b8-bad3-408b763b235e" alt="portfolio game logo">
+              <img src="https://github.com/PioterAndrzejewski/PioterAndrzejewski/assets/109315248/3527aa8c-c753-405e-82dd-80bd90812536" alt="portfolio game logo">
             </picture>
         </a>
       </td>
       <td valign="top">
         <a href="https://github.com/PioterAndrzejewski/project_configurator_frontend" target=”_blank”>
           <picture>
-            <img src="https://user-images.githubusercontent.com/109315248/222612060-c545e913-e90c-4543-9118-7ec45e43f0b8.png" alt="Project configurator logo">
+            <img src="https://github.com/PioterAndrzejewski/PioterAndrzejewski/assets/109315248/eac5f848-1a01-4c59-ada5-54c6c7bc4ddc" alt="Project configurator logo">
           </picture>
         </a>
       </td>
       <td valign="top">
         <a href="https://github.com/PioterAndrzejewski/team_manager_frontend" target=”_blank”>
           <picture>
-            <img src="https://user-images.githubusercontent.com/109315248/222612423-666f68f7-e79f-42ed-ba4b-e3b0f22d053d.png" alt="Team Manager logo">
+            <img src="https://github.com/PioterAndrzejewski/PioterAndrzejewski/assets/109315248/5a337a7b-fd4a-4156-9396-c5405e92dd1b" alt="Team Manager logo">
           </picture>
         </a>
       </td>
       <td valign="top">
         <a href="https://github.com/PioterAndrzejewski/Architecture_Company" target=”_blank”>
           <picture>
-            <img src="https://github.com/PioterAndrzejewski/PioterAndrzejewski/assets/109315248/2163e8eb-04aa-45f8-acc5-c451b57f5fc5" alt="architecture logo">
+            <img src="https://github.com/PioterAndrzejewski/PioterAndrzejewski/assets/109315248/5a0e331b-e0d5-44f3-a04f-7c27a5c1911f" alt="architecture logo">
           </picture>
         </a>
       </td>
   </tr>
 </table>
+
 
 ## Web Developer (JS, TS, React, Vue, Node)
 
