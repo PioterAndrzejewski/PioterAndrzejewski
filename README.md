@@ -56,9 +56,9 @@ To make things easier for you, I've compiled a list of my projects that I am pro
 </table>
 
 
-## Web Developer (JS, TS, React, Vue, Node)
+## Web & React Native Developer (React Native, JS, TS, React, Vue, Node)
 
-I'm currently working as a front-end developer on Mindpal at Sky Gate, a top-notch software house based in Poland. Working alongside talented professionals and utilizing cutting-edge technologies has been an amazing experience so far.
+I'm currently working as a front-end developer in TheWidlarzGroup, a top-notch software house based in Poland. Working alongside talented professionals and utilizing cutting-edge technologies has been an amazing experience so far.
 
   ##  Feel free to reach out 💬
 
