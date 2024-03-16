@@ -3,7 +3,7 @@
 
 
   ## Long story short:
-To make things easier for you, I've compiled a list of my projects that I am proud of:
+Are you looking for developer? To make things easier for you, I've compiled a list of my projects that I am proud of:
 
 <table>
     <tr width>
