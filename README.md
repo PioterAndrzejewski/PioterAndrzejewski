@@ -31,12 +31,7 @@ Are you looking for developer? To make things easier for you, I've compiled a li
     </tr>
 </table>
 
-
-## Javascript Developer (React, React Native, TypeScript, Node)
-
-I'm currently working as a React / React Native in TheWidlarzGroup, a top-notch software house based in Poland. Working alongside talented professionals and utilizing cutting-edge technologies has been an amazing experience so far.
-
-  ##  Feel free to reach out 💬
+  ## Javascript Developer (React, React Native, TypeScript, Node)-  Feel free to reach out 💬
 
 <div align="center" style="background:#414a50; padding: 25px 0;">
      <a href="https://www.linkedin.com/in/piotr-andrzejewski-6241751a3/" target=”_blank”>
